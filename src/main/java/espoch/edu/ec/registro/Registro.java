@@ -28,6 +28,8 @@ public class Registro {
         for (Producto producto:productos){
             System.out.println(producto);
             
+            System.out.println("Se va a pasar estructura");
+            
         }
         
     } 
