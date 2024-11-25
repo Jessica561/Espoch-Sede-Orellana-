@@ -29,7 +29,7 @@ public class Registro {
             System.out.println(producto);
             
             System.out.println("Se va a pasar estructura");
-            System.out.println("Bien benidos a la biblioteca");
+            System.out.println("Bienvenidos  a la biblioteca");
             
         }
         
